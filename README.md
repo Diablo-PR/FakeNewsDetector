@@ -1,6 +1,6 @@
 # FakeNewsDetector
 
-It uses Sklearn a TfidfVectorizer is built on the dataset. 
+It uses Sklearn and TfidfVectorizer is built on the dataset. 
 A Passive Agressive Classifier is initialized and fit the model. 
 The accuracy score and the confusion matrix reflect how well the model is doing.
 
